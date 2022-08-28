@@ -70,7 +70,6 @@ p {
   border-bottom-right-radius: 3px;
 }
 
-
 /* ---------------------- Desktop Version ----------------- */
 @media (min-width: 760px) {
   .title {
